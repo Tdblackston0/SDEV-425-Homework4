@@ -1,0 +1,37 @@
+Sat Jul 27 13:25:09 EDT 2019 : Apache Derby Network Server - 10.13.1.1 - (Unversioned directory) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat Jul 27 13:25:09 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-016c-3476-fcc0-ffffb32be9b1 
+on database directory C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4\SDEV425 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/glassfish/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=C:\glassfish\glassfish5\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jul 27 13:25:11 EDT 2019:
+Shutting down instance a816c00e-016c-3476-fcc0-ffffb32be9b1 on database directory C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4\SDEV425 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Jul 27 13:25:11 EDT 2019 Thread[DRDAConnThread_3,5,main] (DATABASE = SDEV425), (DRDAID = {2}), Database 'SDEV425' shutdown.
+----------------------------------------------------------------
+Sat Jul 27 13:25:30 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance 6ede40af-016c-3476-fcc0-ffffb32be9b1 
+on database directory C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4\SDEV425 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/glassfish/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=C:\glassfish\glassfish5\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jul 27 13:43:19 EDT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Jul 27 13:43:19 EDT 2019:
+Shutting down instance 6ede40af-016c-3476-fcc0-ffffb32be9b1 on database directory C:\Users\tdbla\Documents\NetBeansProjects\SDEV425_HW4\SDEV425 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
