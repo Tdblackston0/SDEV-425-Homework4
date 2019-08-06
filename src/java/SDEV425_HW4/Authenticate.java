@@ -157,7 +157,7 @@ public class Authenticate extends HttpServlet {
             }
 
             
-        }catch(SQLException e){ 
+        }catch(SQLException e){
             System.out.println(e);
         }
     }
